@@ -64,7 +64,7 @@ background-color: #000000;
 
 padding: 20px;
 
-border-bottom: 4px solid #ff0000;
+border-bottom: 4px solid #1d9b4d;
 
 text-align: center;
 
@@ -124,7 +124,7 @@ display: inline-block;
 
 nav a:hover {
 
-color: #ff0000; 
+color: #1d9b4d; 
 
 text-decoration: underline;
 
@@ -157,7 +157,7 @@ max-width: 900px;
 
 margin: 0 auto 25px auto;
 
-border: 5px solid #ff0000; 
+border: 5px solid #1d9b4d; 
 
 }
 
@@ -187,7 +187,7 @@ display: inline-block;
 
 padding: 15px 40px;
 
-background-color: #ff0000; 
+background-color: #1d9b4d; 
 
 color: #ffffff;
 
@@ -204,7 +204,7 @@ border: none;
 
 .button:hover {
 
-background-color: #cc0000; 
+background-color: #1d9b4d; 
 
 cursor: pointer;
 
@@ -230,7 +230,7 @@ margin-bottom: 40px;
 
 font-size: 2.5rem;
 
-border-bottom: 4px solid #ff0000; 
+border-bottom: 4px solid #1d9b4d; 
 
 padding-bottom: 10px;
 
@@ -258,7 +258,7 @@ margin-top: 30px;
 
 margin-bottom: 15px;
 
-color: #ff0000; 
+color: #1d9b4d; 
 
 }
 
@@ -283,13 +283,15 @@ margin-bottom: 10px;
 BANDMEDLEMMAR
 
 =================================== */
+#SamSvensson{
+
+}
 
 .members {
 
 padding: 40px 20px;
 
 margin-bottom: 40px;
-
 }
 
 
@@ -301,7 +303,7 @@ text-align: center;
 
 margin-bottom: 40px;
 
-border-bottom: 4px solid #ff0000; 
+border-bottom: 4px solid #1d9b4d; 
 
 padding-bottom: 10px;
 
@@ -346,7 +348,7 @@ height: 200px;
 
 margin: 0 auto 20px auto;
 
-border: 3px solid #ff0000; 
+border: 3px solid #1d9b4d; 
 
 border-radius: 50%; 
 
@@ -359,7 +361,7 @@ text-align: center;
 
 font-size: 1.8rem;
 
-color: #ff0000; 
+color: #1d9b4d; 
 
 margin-bottom: 10px;
 
@@ -371,13 +373,14 @@ margin-bottom: 10px;
 text-align: center;
 
 margin-bottom: 10px;
+height: 100px;
 
 }
 
 
 .member strong {
 
-color: #ff0000; 
+color: #1d9b4d; 
 
 font-size: 1.1rem;
 
@@ -408,7 +411,7 @@ margin-bottom: 15px;
 
 text-align: center;
 
-border-bottom: 4px solid #ff0000; 
+border-bottom: 4px solid #1d9b4d; 
 
 padding-bottom: 10px;
 
@@ -441,7 +444,7 @@ margin-top: 20px;
 
 th {
 
-background-color: #ff0000; 
+background-color: #1d9b4d; 
 
 color: #ffffff;
 
@@ -476,7 +479,7 @@ background-color: #252525;
 
 td a {
 
-color: #ff0000; 
+color: #1d9b4d; 
 
 text-decoration: none;
 
@@ -517,7 +520,7 @@ font-size: 2.5rem;
 
 margin-bottom: 15px;
 
-border-bottom: 4px solid #ff0000; 
+border-bottom: 4px solid #1d9b4d; 
 
 padding-bottom: 10px;
 
@@ -541,7 +544,7 @@ margin: 1%;
 
 display: inline-block;
 
-border: 3px solid #ff0000; 
+border: 3px solid #1d9b4d; 
 }
 
 
@@ -567,7 +570,7 @@ padding: 40px;
 
 text-align: center;
 
-border-top: 4px solid #ff0000; 
+border-top: 4px solid #1d9b4d; 
 
 }
 
@@ -634,6 +637,6 @@ font-weight: bold;
 
 footer a:hover {
 
-color: #ff0000; 
+color: #1d9b4d; 
 
 }
